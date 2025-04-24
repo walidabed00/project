@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react';
 // IMPORTANT:  replace only the word inside the slashes ↓
 //             with your repository name (“project”), exactly
 //             as it appears on GitHub.
-const GH_PAGES_BASE = '/project/';
+const GH_PAGES_BASE = '/';
 // ──────────────────────────────────────────────────────────────
 
 export default defineConfig(({ mode }) => ({
